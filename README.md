@@ -17,3 +17,4 @@ Package: a collection of python modules in a directory. Contains a `__init__.py`
 ### commonly used packages & modules
 - `os` (module) : provides operational system dependency functionality.
 - `shutil` (module) : offers a number of high-level operations on files and collections of files.
+- `numpy` (package) : this is a fundamental project which provides scientific computing in Python.
