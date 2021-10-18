@@ -22,5 +22,5 @@ Package: a collection of python modules in a directory. Contains a `__init__.py`
 
 
 
-`multiprocessing`
-`multithreading`
+`multiprocessing` (package) : offers various ways to create multiple processes, access them, reuse them as well as kill them.  
+`multithreading` (package) : same as multiprocessing but instead of a process, a thread is created
